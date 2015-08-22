@@ -1,5 +1,5 @@
-# Aimbots
-Fazendo um aimbot
-by: gusdnide
-www.expertgh.com.br
+# C# Assault Cube Aimbot
+### Credits:
+@gusdnide, @Fleeps, @Microsoft
+- [ExpertGH](www.expertgh.com.br)
 
